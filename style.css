@@ -1,0 +1,67 @@
+
+/*Header Container*/
+header{
+  font-style: Ink Free;
+  font-weight: 100
+}
+
+/*Japanese House with Cherry Blossoms image*/
+#japanese{
+  width: 50%;
+  height: auto;
+  margin:20px;
+  padding:10px;
+  background-color:#17202A ;
+}
+
+/*Gears of War image*/
+#gears{
+  width:30%;
+  height:auto;
+  margin:20px;
+  padding:5px;
+  background-color:#17202A ;
+}
+
+/*Halo image*/
+#halo{
+  width:30%;
+  height:auto;
+  margin:20px;
+  background-color:#17202A ;
+  padding:5px;
+}
+
+
+/*Styled Topics*/
+
+h1, h2, h3{
+  text-align:center;
+  font-family:Papyrus;
+  font-size:24px;
+}
+
+/*Main Container*/
+main{background-color:#ECF0F1;}
+
+
+/*Styled Paragraphs*/
+p, ul, ol, li{
+  font-family:Ink Free;
+  font-size:18px;
+}
+
+
+/*Pseudo-Class Styled Links*/
+
+a:link{color:#85C1E9}
+a:visited{color:#E67E22}
+a:hover{color:#C0392B}
+a:active{color:#85C1E9}
+
+
+footer{
+  font-family:Papyrus;
+  font-weight: 100;
+  text-align:center;
+}
